@@ -1,7 +1,7 @@
 {
-  "name": "Weather PWA",
-  "short_name": "Weather PWA",
-  "theme_color": "#3f51b5",
+  "name": "pwa",
+  "short_name": "pwa",
+  "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
